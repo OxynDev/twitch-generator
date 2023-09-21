@@ -1,2 +1,6 @@
 # twitch-generator
-Twitch token generator kasada bypass
+
+
+
+# DISCORD
+https://discord.gg/VpG9gGXSEG
