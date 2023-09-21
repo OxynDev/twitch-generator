@@ -1,7 +1,7 @@
 # CUTY AIO (KASADA SOLVER)
 AIO cuts are a tool that allows for generating Twitch accounts. It bypasses the "kasada" captcha and creates accounts very quickly. AIO also has a built-in follow bot.
 
-## features
+## FEATURES
 - Own captcha (kasada) solver
 - Integrity generator gql and passport
 - Follow bot
