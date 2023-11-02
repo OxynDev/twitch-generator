@@ -8,11 +8,7 @@ AIO cuts are a tool that allows for generating Twitch accounts. It bypasses the 
 - Fast generator 10/20 ac per sec
 
 # DISCORD
-https://discord.gg/VpG9gGXSEG
+https://discord.gg/bFNBME9bqt
 
-![Test 1](https://github.com/OxynDev/twitch-generator/blob/c41e938a5338455d874676477c3664c9272249c9/temp/4.png)
-![Test 1](https://github.com/OxynDev/twitch-generator/blob/c41e938a5338455d874676477c3664c9272249c9/temp/1.png)
-![Test 1](https://github.com/OxynDev/twitch-generator/blob/c41e938a5338455d874676477c3664c9272249c9/temp/2.png)
-![Test 1](https://github.com/OxynDev/twitch-generator/blob/c41e938a5338455d874676477c3664c9272249c9/temp/3.png)
-
-
+https://www.youtube.com/watch?v=-u3WLEoAsd0&ab_channel=oxyn
+[![YT](https://i.ytimg.com/vi/-u3WLEoAsd0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhLIF4oZTAP&rs=AOn4CLBPKkml-139fg0TniceXSWGGQ0UPw)](https://www.youtube.com/watch?v=-u3WLEoAsd0&ab_channel=oxyn "CUTY TOP")
